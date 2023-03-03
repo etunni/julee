@@ -10,3 +10,4 @@
 # Name <email address>
 
 Emma Marichal <bonjour@emmamarichal.fr>
+Eduardo Rodríguez Tunni <edu@tipo.net.ar>
