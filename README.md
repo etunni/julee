@@ -11,10 +11,10 @@ The visual mark characteristic of Julee is a casual cursive-like type, yet balan
 
 ### Designer
 
-* Eduardo Rodríguez Tunni
+* Julián Rodríguez Tunni
 
 ### License
 
 Licensed under the [*SIL Open Font License, 1.1*](https://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
-To contribute to the project contact Eduardo Rodríguez Tunni > edu@tipo.net.ar
+To contribute to the project contact Julián Rodríguez Tunni > juliantunni@gmail.com
